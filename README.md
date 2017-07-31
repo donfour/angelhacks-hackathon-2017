@@ -1,1 +1,3 @@
-# angelhacks-hackathon-2017
+# Classly, a hackathon project for AngelHacks 2017 Silicon Valley
+
+Classly is a tool for enhancing the learning experience in university's lectures. Lectures are an inefficient way of learning. For one, many students find it hard to ask questions in class either because there are too many people in the lecture or they are shy. On top of that, it is difficult for lecturers to get real time feedback from students, so that they may move on to the next topic when their students are still struggling to understand the previous one, or they may spend too much time talking about a simple topic. Classify is here to change that.
