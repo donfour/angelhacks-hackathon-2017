@@ -13,8 +13,13 @@ Professor creates all the nodes (topics to be covered) before the class and shar
 ![Alt text](/resources/sharablecode.png?raw=true "Optional Title")
 During class, professor gets real time feedback / questions from students. He/She can also write on the virtual whiteboard:
 ![Alt text](/resources/professor.png?raw=true "Optional Title")
-Content in virtual whiteboard is streamed real time to students:
+Content in virtual whiteboard is streamed real time to students. Students can upvote/downvote a specific topic to indicate their understanding:
 ![Alt text](/resources/student.png?raw=true "Optional Title")
+
+## Technologies used
+* React.js for the entire app
+* D3.js for rendering nodes on the left
+* Materialize for styling
 
 ## Authors
 * **Cyrus Behroozi**
